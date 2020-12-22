@@ -1,0 +1,1 @@
+Projeto - The stock trader
